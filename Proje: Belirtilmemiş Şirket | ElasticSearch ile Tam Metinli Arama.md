@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>İş Problemi</b><br>
-  Perakende sektöründen bir şirketin verileri üzerinde ElasticSearch ile “Full-Text Arama” işlemi yapılmak isteniyor
+  Perakende sektöründen bir şirketin verileri üzerinde ElasticSearch ile “Full-Text Search” işlemi yapılmak isteniyor
 </p>
 <img width="1920" height="1080" alt="ElasticSearch" src="https://github.com/user-attachments/assets/9d094a99-29d6-4c25-8f02-a471ffe002b9" />
 
